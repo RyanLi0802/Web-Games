@@ -57,5 +57,5 @@ To train the computer to be better at playing this game, you will first have to
   9. set the hp of each stick figure back to 5; comment out line 28, 47, 73, 82, and 90-94 in blue.js; comment out line 33-35 in lib.js
   10. play the game again and see how the computer performs!
 
-The current ANN model is an inefficient way of training the computer to play an action game like this. I'm working on improving this part by utilizing an RNN model or by unsupervised learning.
+*The current ANN model is an inefficient way of training the computer to play an action game like this. I'm working on improving this part by utilizing an RNN model or by unsupervised learning.*
   
