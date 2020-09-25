@@ -23,7 +23,7 @@
 
 
 
-  # Function to print an error message for an invalid request to our
+  # Function to print an error message for an invalid request to the
   # webservice. Note that this is a different error type than that of catching
   # an error for a PDOException, which is unique to an internal database error (not an
   # invalid request sent from a client).
@@ -56,9 +56,8 @@
 
     header("HTTP/1.1 503 Internal Database Error");
     header("Content-Type: text/plain");
-    # note that we don't want a user to see internal errors for our db
+    
     # (debug should be removed or false in a published website)
-
     if ($debug) {
       $msg .= "\n Error details: $ex \n";
     }
