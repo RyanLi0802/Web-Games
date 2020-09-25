@@ -1,16 +1,14 @@
 <?php
   ## common.php
   ## Configs the php data object for mysql database;
-  ## Helper functions for the potluck web service.
+  ## Helper functions for the pokedex web service.
 
   header("Access-Control-Allow-Origin: *");
 
   error_reporting(E_ALL);
   ini_set('display_errors', 1);
 
-  #Flag to set debugging on or off - we want to set this to FALSE for
-  #our "production" system to avoid having a user see too much about our
-  #implementation, but when we are having trouble, try setting this to TRUE
+  #Flag to set debugging on or off
   $debug = TRUE;
 
   # Variables for connections to the database.
