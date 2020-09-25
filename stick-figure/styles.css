@@ -1,0 +1,41 @@
+#game-frame {
+    position: absolute;
+    width: 100%;
+    height: 80%; 
+    bottom: 50px;
+
+    background-image: url("img/background.png");
+    background-size: cover;
+}
+
+.figure {
+    position: absolute;
+    width: 50px;
+}
+
+.inverse {
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+.fireball {
+    position: absolute;
+    height: 40px;
+}
+
+.bang {
+    position: absolute;
+    height: 80px;
+}
+
+.boom {
+    position: absolute;
+    height: 50px;
+}
+
+h2 {
+    font-family: "Century Gothic", Helvetica, sans-serif;
+    text-align: center;
+}

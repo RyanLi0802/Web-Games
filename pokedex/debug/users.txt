@@ -1,0 +1,729 @@
+[2020-08-31 23:15:38] new request received: 
+params: myPid = 2
+begin database query at line 20... 
+completed database query at line 20 
+sending output... 
+output data: Array
+(
+    [usernames] => Array
+        (
+            [0] => mewtwo
+            [1] => mew2
+            [2] => pikachu
+            [3] => pika
+            [4] => mew3
+            [5] => 7654321
+            [6] => Ryan
+            [7] => Henry
+            [8] => RMadrid0802
+            [9] => asodiajsodia
+            [10] => hoiasd
+            [11] => Ryan Li
+            [12] => lansong_li
+            [13] => asdasdas
+            [14] => aosdiajsd
+            [15] => Rmadrid
+            [16] => RMadrid82
+            [17] => RMadrid0809
+            [18] => RMadrid0807
+            [19] => mewtwo123
+        )
+
+    [pids] => Array
+        (
+            [0] => 1
+            [1] => 3
+            [2] => 4
+            [3] => 5
+            [4] => 6
+            [5] => 7
+            [6] => 8
+            [7] => 9
+            [8] => 10
+            [9] => 11
+            [10] => 12
+            [11] => 13
+            [12] => 14
+            [13] => 15
+            [14] => 16
+            [15] => 17
+            [16] => 18
+            [17] => 19
+            [18] => 20
+            [19] => 21
+        )
+
+)
+[2020-08-31 23:16:56] new request received: 
+params: myPid = 2
+begin database query at line 20... 
+completed database query at line 20 
+sending output... 
+output data: Array
+(
+    [usernames] => Array
+        (
+            [0] => mewtwo
+            [1] => mew2
+            [2] => pikachu
+            [3] => pika
+            [4] => mew3
+            [5] => 7654321
+            [6] => Ryan
+            [7] => Henry
+            [8] => RMadrid0802
+            [9] => asodiajsodia
+            [10] => hoiasd
+            [11] => Ryan Li
+            [12] => lansong_li
+            [13] => asdasdas
+            [14] => aosdiajsd
+            [15] => Rmadrid
+            [16] => RMadrid82
+            [17] => RMadrid0809
+            [18] => RMadrid0807
+            [19] => mewtwo123
+        )
+
+    [pids] => Array
+        (
+            [0] => 1
+            [1] => 3
+            [2] => 4
+            [3] => 5
+            [4] => 6
+            [5] => 7
+            [6] => 8
+            [7] => 9
+            [8] => 10
+            [9] => 11
+            [10] => 12
+            [11] => 13
+            [12] => 14
+            [13] => 15
+            [14] => 16
+            [15] => 17
+            [16] => 18
+            [17] => 19
+            [18] => 20
+            [19] => 21
+        )
+
+)
+[2020-08-31 23:28:20] new request received: 
+[2020-08-31 23:30:23] new request received: 
+params: myPid = 2
+begin database query at line 20... 
+completed database query at line 20 
+sending output... 
+output data: Array
+(
+    [usernames] => Array
+        (
+            [0] => mewtwo
+            [1] => mew2
+            [2] => pikachu
+            [3] => pika
+            [4] => mew3
+            [5] => 7654321
+            [6] => Ryan
+            [7] => Henry
+            [8] => RMadrid0802
+            [9] => asodiajsodia
+            [10] => hoiasd
+            [11] => Ryan Li
+            [12] => lansong_li
+            [13] => asdasdas
+            [14] => aosdiajsd
+            [15] => Rmadrid
+            [16] => RMadrid82
+            [17] => RMadrid0809
+            [18] => RMadrid0807
+            [19] => mewtwo123
+        )
+
+    [pids] => Array
+        (
+            [0] => 1
+            [1] => 3
+            [2] => 4
+            [3] => 5
+            [4] => 6
+            [5] => 7
+            [6] => 8
+            [7] => 9
+            [8] => 10
+            [9] => 11
+            [10] => 12
+            [11] => 13
+            [12] => 14
+            [13] => 15
+            [14] => 16
+            [15] => 17
+            [16] => 18
+            [17] => 19
+            [18] => 20
+            [19] => 21
+        )
+
+)
+[2020-08-31 23:38:19] new request received: 
+params: myPid = 1
+begin database query at line 20... 
+completed database query at line 20 
+sending output... 
+output data: Array
+(
+    [usernames] => Array
+        (
+            [0] => Ho-Oh
+            [1] => mew2
+            [2] => pikachu
+            [3] => pika
+            [4] => mew3
+            [5] => 7654321
+            [6] => Ryan
+            [7] => Henry
+            [8] => RMadrid0802
+            [9] => asodiajsodia
+            [10] => hoiasd
+            [11] => Ryan Li
+            [12] => lansong_li
+            [13] => asdasdas
+            [14] => aosdiajsd
+            [15] => Rmadrid
+            [16] => RMadrid82
+            [17] => RMadrid0809
+            [18] => RMadrid0807
+            [19] => mewtwo123
+        )
+
+    [pids] => Array
+        (
+            [0] => 2
+            [1] => 3
+            [2] => 4
+            [3] => 5
+            [4] => 6
+            [5] => 7
+            [6] => 8
+            [7] => 9
+            [8] => 10
+            [9] => 11
+            [10] => 12
+            [11] => 13
+            [12] => 14
+            [13] => 15
+            [14] => 16
+            [15] => 17
+            [16] => 18
+            [17] => 19
+            [18] => 20
+            [19] => 21
+        )
+
+)
+[2020-08-31 23:49:37] new request received: 
+params: myPid = 2
+begin database query at line 20... 
+completed database query at line 20 
+sending output... 
+output data: Array
+(
+    [usernames] => Array
+        (
+            [0] => mewtwo
+            [1] => mew2
+            [2] => pikachu
+            [3] => pika
+            [4] => mew3
+            [5] => 7654321
+            [6] => Ryan
+            [7] => Henry
+            [8] => RMadrid0802
+            [9] => asodiajsodia
+            [10] => hoiasd
+            [11] => Ryan Li
+            [12] => lansong_li
+            [13] => asdasdas
+            [14] => aosdiajsd
+            [15] => Rmadrid
+            [16] => RMadrid82
+            [17] => RMadrid0809
+            [18] => RMadrid0807
+            [19] => mewtwo123
+        )
+
+    [pids] => Array
+        (
+            [0] => 1
+            [1] => 3
+            [2] => 4
+            [3] => 5
+            [4] => 6
+            [5] => 7
+            [6] => 8
+            [7] => 9
+            [8] => 10
+            [9] => 11
+            [10] => 12
+            [11] => 13
+            [12] => 14
+            [13] => 15
+            [14] => 16
+            [15] => 17
+            [16] => 18
+            [17] => 19
+            [18] => 20
+            [19] => 21
+        )
+
+)
+[2020-08-31 23:55:05] new request received: 
+params: myPid = 1
+begin database query at line 20... 
+completed database query at line 20 
+sending output... 
+output data: Array
+(
+    [usernames] => Array
+        (
+            [0] => Ho-Oh
+            [1] => mew2
+            [2] => pikachu
+            [3] => pika
+            [4] => mew3
+            [5] => 7654321
+            [6] => Ryan
+            [7] => Henry
+            [8] => RMadrid0802
+            [9] => asodiajsodia
+            [10] => hoiasd
+            [11] => Ryan Li
+            [12] => lansong_li
+            [13] => asdasdas
+            [14] => aosdiajsd
+            [15] => Rmadrid
+            [16] => RMadrid82
+            [17] => RMadrid0809
+            [18] => RMadrid0807
+            [19] => mewtwo123
+        )
+
+    [pids] => Array
+        (
+            [0] => 2
+            [1] => 3
+            [2] => 4
+            [3] => 5
+            [4] => 6
+            [5] => 7
+            [6] => 8
+            [7] => 9
+            [8] => 10
+            [9] => 11
+            [10] => 12
+            [11] => 13
+            [12] => 14
+            [13] => 15
+            [14] => 16
+            [15] => 17
+            [16] => 18
+            [17] => 19
+            [18] => 20
+            [19] => 21
+        )
+
+)
+[2020-08-31 23:55:34] new request received: 
+params: myPid = 2
+begin database query at line 20... 
+completed database query at line 20 
+sending output... 
+output data: Array
+(
+    [usernames] => Array
+        (
+            [0] => mewtwo
+            [1] => mew2
+            [2] => pikachu
+            [3] => pika
+            [4] => mew3
+            [5] => 7654321
+            [6] => Ryan
+            [7] => Henry
+            [8] => RMadrid0802
+            [9] => asodiajsodia
+            [10] => hoiasd
+            [11] => Ryan Li
+            [12] => lansong_li
+            [13] => asdasdas
+            [14] => aosdiajsd
+            [15] => Rmadrid
+            [16] => RMadrid82
+            [17] => RMadrid0809
+            [18] => RMadrid0807
+            [19] => mewtwo123
+        )
+
+    [pids] => Array
+        (
+            [0] => 1
+            [1] => 3
+            [2] => 4
+            [3] => 5
+            [4] => 6
+            [5] => 7
+            [6] => 8
+            [7] => 9
+            [8] => 10
+            [9] => 11
+            [10] => 12
+            [11] => 13
+            [12] => 14
+            [13] => 15
+            [14] => 16
+            [15] => 17
+            [16] => 18
+            [17] => 19
+            [18] => 20
+            [19] => 21
+        )
+
+)
+[2020-09-01 00:14:51] new request received: 
+params: myPid = 2
+begin database query at line 20... 
+completed database query at line 20 
+sending output... 
+output data: Array
+(
+    [usernames] => Array
+        (
+            [0] => mewtwo
+            [1] => mew2
+            [2] => pikachu
+            [3] => pika
+            [4] => mew3
+            [5] => 7654321
+            [6] => Ryan
+            [7] => Henry
+            [8] => RMadrid0802
+            [9] => asodiajsodia
+            [10] => hoiasd
+            [11] => Ryan Li
+            [12] => lansong_li
+            [13] => asdasdas
+            [14] => aosdiajsd
+            [15] => Rmadrid
+            [16] => RMadrid82
+            [17] => RMadrid0809
+            [18] => RMadrid0807
+            [19] => mewtwo123
+        )
+
+    [pids] => Array
+        (
+            [0] => 1
+            [1] => 3
+            [2] => 4
+            [3] => 5
+            [4] => 6
+            [5] => 7
+            [6] => 8
+            [7] => 9
+            [8] => 10
+            [9] => 11
+            [10] => 12
+            [11] => 13
+            [12] => 14
+            [13] => 15
+            [14] => 16
+            [15] => 17
+            [16] => 18
+            [17] => 19
+            [18] => 20
+            [19] => 21
+        )
+
+)
+[2020-09-01 00:15:53] new request received: 
+params: myPid = 2
+begin database query at line 20... 
+completed database query at line 20 
+sending output... 
+output data: Array
+(
+    [usernames] => Array
+        (
+            [0] => mewtwo
+            [1] => mew2
+            [2] => pikachu
+            [3] => pika
+            [4] => mew3
+            [5] => 7654321
+            [6] => Ryan
+            [7] => Henry
+            [8] => RMadrid0802
+            [9] => asodiajsodia
+            [10] => hoiasd
+            [11] => Ryan Li
+            [12] => lansong_li
+            [13] => asdasdas
+            [14] => aosdiajsd
+            [15] => Rmadrid
+            [16] => RMadrid82
+            [17] => RMadrid0809
+            [18] => RMadrid0807
+            [19] => mewtwo123
+        )
+
+    [pids] => Array
+        (
+            [0] => 1
+            [1] => 3
+            [2] => 4
+            [3] => 5
+            [4] => 6
+            [5] => 7
+            [6] => 8
+            [7] => 9
+            [8] => 10
+            [9] => 11
+            [10] => 12
+            [11] => 13
+            [12] => 14
+            [13] => 15
+            [14] => 16
+            [15] => 17
+            [16] => 18
+            [17] => 19
+            [18] => 20
+            [19] => 21
+        )
+
+)
+[2020-09-01 00:16:11] new request received: 
+params: myPid = 2
+begin database query at line 20... 
+completed database query at line 20 
+sending output... 
+output data: Array
+(
+    [usernames] => Array
+        (
+            [0] => mewtwo
+            [1] => mew2
+            [2] => pikachu
+            [3] => pika
+            [4] => mew3
+            [5] => 7654321
+            [6] => Ryan
+            [7] => Henry
+            [8] => RMadrid0802
+            [9] => asodiajsodia
+            [10] => hoiasd
+            [11] => Ryan Li
+            [12] => lansong_li
+            [13] => asdasdas
+            [14] => aosdiajsd
+            [15] => Rmadrid
+            [16] => RMadrid82
+            [17] => RMadrid0809
+            [18] => RMadrid0807
+            [19] => mewtwo123
+        )
+
+    [pids] => Array
+        (
+            [0] => 1
+            [1] => 3
+            [2] => 4
+            [3] => 5
+            [4] => 6
+            [5] => 7
+            [6] => 8
+            [7] => 9
+            [8] => 10
+            [9] => 11
+            [10] => 12
+            [11] => 13
+            [12] => 14
+            [13] => 15
+            [14] => 16
+            [15] => 17
+            [16] => 18
+            [17] => 19
+            [18] => 20
+            [19] => 21
+        )
+
+)
+[2020-09-01 00:16:25] new request received: 
+params: myPid = 2
+begin database query at line 20... 
+completed database query at line 20 
+sending output... 
+output data: Array
+(
+    [usernames] => Array
+        (
+            [0] => mewtwo
+            [1] => mew2
+            [2] => pikachu
+            [3] => pika
+            [4] => mew3
+            [5] => 7654321
+            [6] => Ryan
+            [7] => Henry
+            [8] => RMadrid0802
+            [9] => asodiajsodia
+            [10] => hoiasd
+            [11] => Ryan Li
+            [12] => lansong_li
+            [13] => asdasdas
+            [14] => aosdiajsd
+            [15] => Rmadrid
+            [16] => RMadrid82
+            [17] => RMadrid0809
+            [18] => RMadrid0807
+            [19] => mewtwo123
+        )
+
+    [pids] => Array
+        (
+            [0] => 1
+            [1] => 3
+            [2] => 4
+            [3] => 5
+            [4] => 6
+            [5] => 7
+            [6] => 8
+            [7] => 9
+            [8] => 10
+            [9] => 11
+            [10] => 12
+            [11] => 13
+            [12] => 14
+            [13] => 15
+            [14] => 16
+            [15] => 17
+            [16] => 18
+            [17] => 19
+            [18] => 20
+            [19] => 21
+        )
+
+)
+[2020-09-01 00:30:23] new request received: 
+params: myPid = 1
+begin database query at line 20... 
+completed database query at line 20 
+sending output... 
+output data: Array
+(
+    [usernames] => Array
+        (
+            [0] => Ho-Oh
+            [1] => mew2
+            [2] => pikachu
+            [3] => pika
+            [4] => mew3
+            [5] => 7654321
+            [6] => Ryan
+            [7] => Henry
+            [8] => RMadrid0802
+            [9] => asodiajsodia
+            [10] => hoiasd
+            [11] => Ryan Li
+            [12] => lansong_li
+            [13] => asdasdas
+            [14] => aosdiajsd
+            [15] => Rmadrid
+            [16] => RMadrid82
+            [17] => RMadrid0809
+            [18] => RMadrid0807
+            [19] => mewtwo123
+        )
+
+    [pids] => Array
+        (
+            [0] => 2
+            [1] => 3
+            [2] => 4
+            [3] => 5
+            [4] => 6
+            [5] => 7
+            [6] => 8
+            [7] => 9
+            [8] => 10
+            [9] => 11
+            [10] => 12
+            [11] => 13
+            [12] => 14
+            [13] => 15
+            [14] => 16
+            [15] => 17
+            [16] => 18
+            [17] => 19
+            [18] => 20
+            [19] => 21
+        )
+
+)
+[2020-09-01 00:31:10] new request received: 
+params: myPid = 2
+begin database query at line 20... 
+completed database query at line 20 
+sending output... 
+output data: Array
+(
+    [usernames] => Array
+        (
+            [0] => mewtwo
+            [1] => mew2
+            [2] => pikachu
+            [3] => pika
+            [4] => mew3
+            [5] => 7654321
+            [6] => Ryan
+            [7] => Henry
+            [8] => RMadrid0802
+            [9] => asodiajsodia
+            [10] => hoiasd
+            [11] => Ryan Li
+            [12] => lansong_li
+            [13] => asdasdas
+            [14] => aosdiajsd
+            [15] => Rmadrid
+            [16] => RMadrid82
+            [17] => RMadrid0809
+            [18] => RMadrid0807
+            [19] => mewtwo123
+        )
+
+    [pids] => Array
+        (
+            [0] => 1
+            [1] => 3
+            [2] => 4
+            [3] => 5
+            [4] => 6
+            [5] => 7
+            [6] => 8
+            [7] => 9
+            [8] => 10
+            [9] => 11
+            [10] => 12
+            [11] => 13
+            [12] => 14
+            [13] => 15
+            [14] => 16
+            [15] => 17
+            [16] => 18
+            [17] => 19
+            [18] => 20
+            [19] => 21
+        )
+
+)
