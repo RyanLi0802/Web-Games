@@ -3,7 +3,7 @@
 
 ## Summary
 
-Welcome! This is a collection of the web games I developed using JavaScript and PHP. <code> <mark style="background-color: lightblue">The Pokedex Game</span></code> is a server based card game where players can encounter, fight, and collect wild Pokemons and interact with one another through real-time trading. The Stick Figure Game is a keyboard based action game wherein the players fights against a computer controlled stick figure. It also supports users to teach the computer to be better at playing the game.
+Welcome! This is a collection of the web games I developed using JavaScript and PHP. <code> <mark>The Pokedex Game</span></code> is a server based card game where players can encounter, fight, and collect wild Pokemons and interact with one another through real-time trading. The Stick Figure Game is a keyboard based action game wherein the players fights against a computer controlled stick figure. It also supports users to teach the computer to be better at playing the game.
 
 
 ### Pokedex Game
